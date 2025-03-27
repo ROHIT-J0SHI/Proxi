@@ -1,28 +1,27 @@
 # Proxi: Connecting Local Experts with Ease
 
 ## 📚 Overview
-Proxi is a platform that seamlessly connects users with local experts for various services. It bridges the gap between service seekers and skilled professionals by enabling location-based matching, verified profiles, and smooth communication.
+Proxi is a platform that seamlessly connects users with experts nearby for various services. It bridges the gap between service seekers and skilled professionals by enabling location-based matching and smooth communication with ease.
 
 ## 🚀 Features Implemented
 - **Role-Based Access Control:**  
    - Users can post service requests and browse or connect with experts.
    - Providers receive notifications and can respond with offers or accept requests.
-- **Real-Time Matching:**  
+- **Location based Matching:**  
    - Location-based service matching using OpenStreetMap API.
-- **Verified Profiles & Reviews:**  
-   - Ensures trust with profile verification and user reviews.
-- **Secure Payment Gateway:**  
+- **Real Time Connection with experts:**  
+   - Clients can connect with the experts by using their contact number provided.
+- **Secure Payment Gateway (In progress):**  
    - Payments handled via Stripe.
-- **Notification System:**  
+- **Notification System (In progress):**  
    - Real-time notifications for new service requests.
 
 ## 🛠️ Technology Stack
-- **Frontend:** React.js, Material UI (MUI)
+- **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js with Express
 - **Database:** MongoDB
 - **Geolocation API:** OpenStreetMap API for location-based matching
 - **Authentication:** Firebase Authentication
-- **Payment Gateway:** Stripe
 
 ## 📡 Getting Started
 
